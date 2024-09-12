@@ -53,8 +53,3 @@ Follow these steps to install and run the project locally.
     JWT_SECRET=your_jwt_secret
     PAYPAL_CLIENT_ID=your_paypal_client_id
     STRIPE_SECRET_KEY=your_stripe_secret_key
-
-
-
-
-
